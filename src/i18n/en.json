@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "dashboard": "Dashboard",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "become_instructor": "Become an Instructor",
+    "admin": "Admin",
+    "notifications": "Notifications"
+  },
+  "landing": {
+    "hero_title": "Master the craft, live.",
+    "hero_subtitle": "Structured live learning with real interaction — not passive videos. Join expert-led sessions and build real skills.",
+    "cta": "Browse Courses",
+    "featured": "Featured Courses",
+    "live_badge": "Live",
+    "upcoming_badge": "Upcoming",
+    "recorded_badge": "Recorded"
+  },
+  "courses": {
+    "title": "All Courses",
+    "search": "Search courses...",
+    "filter_all": "All",
+    "filter_live": "Live",
+    "filter_upcoming": "Upcoming",
+    "filter_recorded": "Recorded",
+    "enroll": "Enroll Now",
+    "free": "Free",
+    "sessions": "Sessions",
+    "students": "Students",
+    "next_session": "Next Session",
+    "course_details": "Course Details",
+    "schedule": "Session Schedule",
+    "about_instructor": "About the Instructor",
+    "live_soon": "Live Soon"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "upcoming_sessions": "Upcoming Sessions",
+    "my_courses": "My Courses",
+    "enter_classroom": "Enter Classroom",
+    "starts_in": "Starts in",
+    "no_upcoming": "No upcoming sessions"
+  },
+  "classroom": {
+    "chat": "Chat",
+    "participants": "Participants",
+    "raise_hand": "Raise Hand",
+    "hand_raised": "Hand Raised",
+    "mute_all": "Mute All",
+    "end_session": "End Session",
+    "toggle_chat": "Toggle Chat",
+    "send_message": "Send a message...",
+    "recording": "Recording",
+    "live_now": "Live Now",
+    "session_ended": "Session Ended"
+  },
+  "instructor": {
+    "dashboard": "Instructor Dashboard",
+    "my_courses": "My Courses",
+    "my_sessions": "My Sessions",
+    "my_students": "My Students",
+    "create_course": "Create Course",
+    "schedule_session": "Schedule Session",
+    "start_session": "Start Session",
+    "application_title": "Become an Instructor",
+    "application_subtitle": "Share your expertise with learners worldwide",
+    "bio": "Bio",
+    "expertise": "Areas of Expertise",
+    "sample_content": "Sample Content URL",
+    "submit_application": "Submit Application",
+    "pending": "Application Pending"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "instructor_applications": "Instructor Applications",
+    "course_submissions": "Course Submissions",
+    "approve": "Approve",
+    "reject": "Reject",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "auth": {
+    "login_title": "Welcome back",
+    "login_subtitle": "Sign in to continue learning",
+    "signup_title": "Join SkillForge",
+    "signup_subtitle": "Start your live learning journey",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "login": "Sign In",
+    "signup": "Create Account",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "demo_role": "Demo Role"
+  },
+  "notifications": {
+    "session_reminder": "Session starts in 10 minutes",
+    "application_approved": "Your instructor application was approved!",
+    "new_recording": "New recording available",
+    "mark_read": "Mark as read"
+  },
+  "recording": {
+    "title": "Session Recording",
+    "related": "Related Sessions",
+    "notes": "Session Notes",
+    "progress": "Progress"
+  }
+}

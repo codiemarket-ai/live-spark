@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "dashboard": "لوحة التحكم",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "become_instructor": "كن مدرباً",
+    "admin": "الإدارة",
+    "notifications": "الإشعارات"
+  },
+  "landing": {
+    "hero_title": "أتقن المهارة، مباشرة.",
+    "hero_subtitle": "تعلم مباشر ومنظم مع تفاعل حقيقي — ليس فيديوهات سلبية. انضم لجلسات يقودها خبراء وابنِ مهارات حقيقية.",
+    "cta": "تصفح الدورات",
+    "featured": "الدورات المميزة",
+    "live_badge": "مباشر",
+    "upcoming_badge": "قادم",
+    "recorded_badge": "مسجل"
+  },
+  "courses": {
+    "title": "جميع الدورات",
+    "search": "ابحث عن دورات...",
+    "filter_all": "الكل",
+    "filter_live": "مباشر",
+    "filter_upcoming": "قادم",
+    "filter_recorded": "مسجل",
+    "enroll": "سجّل الآن",
+    "free": "مجاني",
+    "sessions": "الجلسات",
+    "students": "الطلاب",
+    "next_session": "الجلسة القادمة",
+    "course_details": "تفاصيل الدورة",
+    "schedule": "جدول الجلسات",
+    "about_instructor": "عن المدرب",
+    "live_soon": "مباشر قريباً"
+  },
+  "dashboard": {
+    "welcome": "مرحباً بعودتك",
+    "upcoming_sessions": "الجلسات القادمة",
+    "my_courses": "دوراتي",
+    "enter_classroom": "دخول الفصل",
+    "starts_in": "يبدأ بعد",
+    "no_upcoming": "لا توجد جلسات قادمة"
+  },
+  "classroom": {
+    "chat": "المحادثة",
+    "participants": "المشاركون",
+    "raise_hand": "ارفع يدك",
+    "hand_raised": "اليد مرفوعة",
+    "mute_all": "كتم الجميع",
+    "end_session": "إنهاء الجلسة",
+    "toggle_chat": "تبديل المحادثة",
+    "send_message": "أرسل رسالة...",
+    "recording": "تسجيل",
+    "live_now": "مباشر الآن",
+    "session_ended": "انتهت الجلسة"
+  },
+  "instructor": {
+    "dashboard": "لوحة المدرب",
+    "my_courses": "دوراتي",
+    "my_sessions": "جلساتي",
+    "my_students": "طلابي",
+    "create_course": "إنشاء دورة",
+    "schedule_session": "جدولة جلسة",
+    "start_session": "بدء الجلسة",
+    "application_title": "كن مدرباً",
+    "application_subtitle": "شارك خبرتك مع المتعلمين حول العالم",
+    "bio": "السيرة الذاتية",
+    "expertise": "مجالات الخبرة",
+    "sample_content": "رابط محتوى نموذجي",
+    "submit_application": "إرسال الطلب",
+    "pending": "الطلب قيد المراجعة"
+  },
+  "admin": {
+    "dashboard": "لوحة الإدارة",
+    "instructor_applications": "طلبات المدربين",
+    "course_submissions": "الدورات المقدمة",
+    "approve": "قبول",
+    "reject": "رفض",
+    "pending": "قيد الانتظار",
+    "approved": "مقبول",
+    "rejected": "مرفوض"
+  },
+  "auth": {
+    "login_title": "مرحباً بعودتك",
+    "login_subtitle": "سجّل دخولك لمتابعة التعلم",
+    "signup_title": "انضم إلى SkillForge",
+    "signup_subtitle": "ابدأ رحلتك في التعلم المباشر",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "name": "الاسم الكامل",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "no_account": "ليس لديك حساب؟",
+    "have_account": "لديك حساب بالفعل؟",
+    "demo_role": "دور تجريبي"
+  },
+  "notifications": {
+    "session_reminder": "الجلسة تبدأ بعد 10 دقائق",
+    "application_approved": "تم قبول طلبك كمدرب!",
+    "new_recording": "تسجيل جديد متاح",
+    "mark_read": "تحديد كمقروء"
+  },
+  "recording": {
+    "title": "تسجيل الجلسة",
+    "related": "جلسات ذات صلة",
+    "notes": "ملاحظات الجلسة",
+    "progress": "التقدم"
+  }
+}
